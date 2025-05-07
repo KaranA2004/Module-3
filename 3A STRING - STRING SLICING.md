@@ -20,8 +20,8 @@ def slice(input_string):
     sliced_string = input_string[2:7]
     print(f'The sliced string is \'{sliced_string}\'')
 
-n = input()  # Read input string from the user
-slice(n)  # Call the slice function with the input string
+n = input()  
+slice(n)  
 ```
 
 ### OUTPUT
