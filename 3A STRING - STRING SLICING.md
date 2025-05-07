@@ -1,5 +1,5 @@
 # Exp.No:3a
-## STRING - String Slicing in Python
+## STRING - String Slicing
 
 ## Aim
 To create a Python function that accepts a string and prints the characters between positions 2 and 7 of that string.
