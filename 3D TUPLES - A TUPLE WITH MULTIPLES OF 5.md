@@ -1,4 +1,4 @@
-# Exp.No: 3e  
+# Exp.No: 3d 
 ## JOINING TWO TUPLES
 
 ### AIM  
