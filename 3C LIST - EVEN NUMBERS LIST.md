@@ -1,4 +1,4 @@
-# Exp.No: 3d  
+# Exp.No: 3c
 ## SUM OF ELEMENTS IN A LIST
 
 ### AIM  
