@@ -1,4 +1,4 @@
-# Exp.No: 3c  
+# Exp.No: 3b  
 ## STRING MATCHING USING REGULAR EXPRESSIONS
 
 ### AIM  
